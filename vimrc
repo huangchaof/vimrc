@@ -1,6 +1,6 @@
 set nocompatible 
 set mouse=a
-
+colorscheme desert
 
 set number
 set backspace=2  " 回退键删除生效
